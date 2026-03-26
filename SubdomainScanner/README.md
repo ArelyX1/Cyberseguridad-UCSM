@@ -14,3 +14,4 @@ go install -v github.com/projectdiscovery/httpx/cmd/httpx@v1.9.0
 Luego instalar requeriments.txt
 
 ---------------------------------------------------------------------------------------------------
+los resultados se guardaran en una carpeta donde habra primero el archivo to_resolve que son todos los subdomains encontrados y luego otro archivo final txt que son todos los fitrados por suffle dns
